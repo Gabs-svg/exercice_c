@@ -1,4 +1,11 @@
 # exercice_c
-This is a test
-
-ffg
+WSL / Ubuntu
+VS Code
+Visual Studio
+VIM
+Github
+GDB
+Clang/compilateur
+Keepass
+Git
+Git merge
