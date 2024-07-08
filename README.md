@@ -9,3 +9,8 @@ Clang/compilateur
 Keepass
 Git
 Git merge
+makefile
+data structure
+algorithme
+memory
+threading
