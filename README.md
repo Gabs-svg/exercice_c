@@ -14,3 +14,13 @@ data structure
 algorithme
 memory
 threading
+
+
+https://vim-adventures.com/
+ 
+https://learngitbranching.js.org/
+ 
+regarder une video sur git
+ 
+https://theccoder.com/exercices-c
+ 
